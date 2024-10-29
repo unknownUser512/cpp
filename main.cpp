@@ -1,4 +1,4 @@
-#include "headers\func_2.h"
+#include "func_2.h"
 #include <iostream>
 
 int main()
